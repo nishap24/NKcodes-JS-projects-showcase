@@ -12,9 +12,7 @@ Welcome to the Showcase of 30-Day JavaScript Projects! This website is the culmi
 
 Live Demo:
 
-- **[Netlify](https://tgcodes-js-projects.netlify.app/)**
 
-- **[Github](https://codesoftg.github.io/TGcodes-JS-projects-showcase/)**
 ## Authors
 
 - [NK🖤](https://www.github.com/nishap24) 
