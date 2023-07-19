@@ -1,0 +1,44 @@
+
+.table-responsive {
+padding: 10px;
+}
+
+.table {
+width: 100%;
+margin-bottom: 1rem;
+border-collapse: collapse;
+}
+
+.table th,
+.table td {
+padding: 8px;
+text-align: center;
+}
+
+.table th {
+font-weight: bold;
+}
+
+.table-dotted th,
+.table-dotted td {
+border: 2px solid black;
+}
+
+.table-dotted th:first-child,
+.table-dotted td:first-child {
+border-left: none;
+}
+
+.table-dotted th:last-child,
+.table-dotted td:last-child {
+border-right: none;
+}
+
+.table-dotted tr:last-child th,
+.table-dotted tr:last-child td {
+border-bottom: none;
+}
+
+.table-dotted a {
+    text-decoration: none;
+}
