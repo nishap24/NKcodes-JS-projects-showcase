@@ -14,7 +14,7 @@ Live Demo:
 
 
 
-- **[Github]([https://nishap24.github.io/NKcodes-JS-projects-showcase/])**
+- **[Github](https://nishap24.github.io/NKcodes-JS-projects-showcase/)**
   
 ## Authors
 
