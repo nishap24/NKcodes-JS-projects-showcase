@@ -12,6 +12,8 @@ Welcome to the Showcase of 30-Day JavaScript Projects! This website is the culmi
 
 Live Demo:
 
+- **[Netlify](https://kanasu-js-projects.netlify.app)**
+
 
 
 - **[Github](https://nishap24.github.io/NKcodes-JS-projects-showcase/)**
